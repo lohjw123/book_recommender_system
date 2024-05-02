@@ -1,8 +1,0 @@
-streamlit
-joblib
-numpy
-pandas
-matplotlib
-seaborn
-warnings
-consine_similarity
